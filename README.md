@@ -38,3 +38,5 @@ Chaque étudiant :
 - Ajoute un fichier au format markdown, contenant le titre de ce module, et le nom des intervenants
 - Ajoute ce fichier au dépôt local, puis le soumettre au dépôt distant
 - Récupère les fichiers des autres membres du groupe
+
+Salut c'est Mattéo
