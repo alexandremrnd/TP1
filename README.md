@@ -55,6 +55,5 @@ BTS SIO cherche a devenir developpeur back-end
 #Message de steph
 
 Alexandre est à côté
-
 # Message quotidien et jamais oublié de Cloé :
-Bonjour!
+#Bonjour : ce que ne dit jamais cloé
