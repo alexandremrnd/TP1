@@ -47,10 +47,14 @@ Nous allons observez dans ce tp si la bete maha die en moins d'une semaine <br>
 
 <p>Ce <b> Mot</b> en gras et celui-l&#xE0; <strong>aussi</strong>.</p>
 
-## Salut c'est Justin! 21 ans attachiant mais netflix & chill sont mon quotidien
+## Salut c'est Justin! 
+BTS SIO cherche a devenir developpeur back-end 
 
 #Incroyable
 
 #Message de steph
 
 Alexandre est à côté
+
+# Message quotidien et jamais oublié de Cloé :
+Bonjour!
