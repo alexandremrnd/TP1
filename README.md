@@ -40,4 +40,7 @@ Chaque étudiant :
 - Récupère les fichiers des autres membres du groupe
 
 ## Salut c'est Mattéo
+Mattéo est un animal sauvage vivant dans la savane, il vie dans la savane et mange des chèvres pour survivre
+Nous allons observez dans ce tp si la bete maha survoe plus d'une semaine
+
 ## Salut c'est Justin! 21 ans attachiant mais chill & netflix sont mon quotidien
