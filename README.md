@@ -41,7 +41,19 @@ Chaque étudiant :
 
 ## Salut c'est Mattéo
 Mattéo est un animal sauvage vivant dans la savane, il vie dans la savane et mange des chèvres pour survivre
+<<<<<<< HEAD
 Nous allons observez dans ce tp si la bete maha survie plus d'une semaine
 :P
 ## Salut c'est Justin! 
 
+=======
+Nous allons observez dans ce tp si la bete maha die en moins d'une semaine <br>
+:P
+<h1> On peux mettre des balises html c'est incroyable !</h1>
+
+
+
+## Salut c'est Justin! 21 ans attachiant mais netflix & chill sont mon quotidien
+
+#Incroyable
+>>>>>>> bb7c56975491b79fd4dc9a99dcb5e485c916f021
