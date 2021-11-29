@@ -40,3 +40,4 @@ Chaque étudiant :
 - Récupère les fichiers des autres membres du groupe
 
 ## Salut c'est Mattéo
+## Salut c'est Justin! 21 ans attachiant mais chill & netflix sont mon quotidien
