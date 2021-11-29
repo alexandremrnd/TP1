@@ -39,4 +39,4 @@ Chaque étudiant :
 - Ajoute ce fichier au dépôt local, puis le soumettre au dépôt distant
 - Récupère les fichiers des autres membres du groupe
 
-Salut c'est Mattéo
+## Salut c'est Mattéo
